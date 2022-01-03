@@ -5,7 +5,7 @@ import pathlib
 ext = pathlib.Path(a).suffix
 
 #print file type
-print(ext)
+print("The extension of the file is:",ext)
 
    
             
